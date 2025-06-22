@@ -10,7 +10,7 @@
 "Default Keyboard Tooltip" = "保持为空（默认）时，Input Source Pro 将不会切换输入法";
 "Default" = "默认";
 
-"Promotion" = "Input Source Pro 完全免费 —— 无广告、无应用内购买，并且完全开源。如果你喜欢这款应用，可以通过以下方式支持其未来的发展 ;)";
+"Promotion" = "Input Source Pro 完全免费 —— 没有广告，没有应用内购买，并且完全开源。如果你觉得这个应用对你有帮助，欢迎通过以下方式支持它的持续开发 🚀";
 "Star on GitHub" = "在 GitHub 上点星标";
 "Sponsor" = "赞助";
 "Share with friends" = "分享给朋友";
@@ -72,7 +72,7 @@
 "Follow Mouse" = "跟随鼠标";
 "Relative to App" = "跟随应用";
 "Relative to Screen" = "跟随屏幕";
-"Spacing" = "间隙";
+"Spacing" = "间距";
 "Nope" = "无";
 "XS" = "特小";
 "S" = "小";
@@ -81,13 +81,13 @@
 "XL" = "特大";
 "Alignment" = "对齐方式";
 "Top-Left Corner" = "左上角";
-"Top-Center" = "上中";
+"Top-Center" = "顶部居中";
 "Top-Right Corner" = "右上角";
-"Center-Left" = "左中";
-"Center" = "中心";
-"Center-Right" = "右中";
+"Center-Left" = "左侧居中";
+"Center" = "居中";
+"Center-Right" = "右侧居中";
 "Bottom-Left Corner" = "左下角";
-"Bottom-Center" = "下中";
+"Bottom-Center" = "底部居中";
 "Bottom-Right Corner" = "右下角";
 
 "Appearance" = "外观";
@@ -100,9 +100,9 @@
 "Medium" = "中";
 "Large" = "大";
 "Color Scheme" = "配色方案";
-"In Dark Mode" = "在深色模式下";
-"In Light Mode" = "在浅色模式下";
-"Sync with OS" = "与操作系统同步";
+"In Dark Mode" = "深色模式";
+"In Light Mode" = "浅色模式";
+"Sync with OS" = "与系统同步";
 
 "Color" = "字体颜色";
 "Background" = "背景颜色";
@@ -138,7 +138,7 @@
 
 "DOMAIN-SUFFIX Explanation" = "当前规则会匹配域名后缀。比如 `google.com` 会匹配 `www.google.com` 、 `mail.google.com` 以及 `google.com` 本身，但**不会**匹配到 `xxx-google.com`。";
 "DOMAIN Explanation" = "当前规则会匹配完整域名。比如 `google.com` 只会匹配 `google.com`，而 `www.google.com` 、`mail.google.com` 以及 `xxx-google.com` 则**不会**被匹配到。";
-"URL-REGEX Explanation" = "当前规则会使用[正则表达式](https://inputsource.pro/help/regex)进行匹配。在使用时请不要忘了对特殊字符（比如 `\\` 符号）进行转义。";
+"URL-REGEX Explanation" = "当前规则会使用[正则表达式](https://inputsource.pro/help/regex)进行匹配。不要忘记转义特殊字符，如 `\\`、`.` 等。";
 
 "Default Keyboard for Address Bar" = "地址栏默认输入法";
 
@@ -159,10 +159,10 @@
 "Right click each section to copy link" = "右键点击各项可复制链接";
 
 "Send Feedback" = "发送反馈";
-"FeedbackTips" = "👀";
-"FeedbackMessageTitle" = "说点啥";
-"FeedbackMessagePlaceholder" = "发现了 Bug 或者是少了一个你超想要的功能？";
-"FeedbackEmailTitle" = "回信邮箱(可选)";
+"FeedbackTips" = "我们很想听听该如何改进 Input Source Pro。请填写此表单，我们会尽快回复您。🥰";
+"FeedbackMessageTitle" = "说点什么";
+"FeedbackMessagePlaceholder" = "发现了 Bug 或者是少了一个你很想要的功能？";
+"FeedbackEmailTitle" = "邮箱（可选）";
 "FeedbackSuccessTips" = "感谢反馈～ 我们会尽快回复你的！ ❤️";
 
 "Delete" = "删除";
