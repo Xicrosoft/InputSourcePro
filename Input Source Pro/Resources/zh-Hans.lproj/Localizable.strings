@@ -7,7 +7,7 @@
 "Quit" = "退出";
 "Default Keyboard for %@" = "为「%@」设置默认输入法";
 "Current App" = "当前应用";
-"Default Keyboard Tooltip" = "选择空选项时，Input Source Pro 不会自动切换当前 App 的输入法";
+"Default Keyboard Tooltip" = "保持为空（默认）时，Input Source Pro 将不会切换输入法";
 "Default" = "默认";
 
 "Promotion" = "Input Source Pro 完全免费 —— 无广告、无应用内购买，并且完全开源。如果你喜欢这款应用，可以通过以下方式支持其未来的发展 ;)";
@@ -27,20 +27,20 @@
 "Launch at Login" = "在登录时启动";
 "Display Icon in Menu Bar" = "在菜单栏中显示图标";
 "Enhanced Mode" = "增强模式";
-"Enhanced Mode Description" = "启用增强模式让输入法提示位置更为准确，同时为「聚焦」类应用提供更完善的支持";
-"Enhanced Mode Permission Description" = "为了启用「增强模式」，Input Source Pro 需要你为它开启系统的「辅助功能」权限。";
-"Enhanced Mode Required Tips" = "开启此功能需先启用「增强模式」";
-"Open Accessibility Preferences" = "打开「辅助功能」设置";
+"Enhanced Mode Description" = "启用增强模式可以提供更准确的提示位置，并更好地支持类似“聚焦”的功能";
+"Enhanced Mode Permission Description" = "Input Source Pro 需要辅助功能权限以启用增强模式。";
+"Enhanced Mode Required Tips" = "该功能需要启用“增强模式”。";
+"Open Accessibility Preferences" = "打开辅助功能设置";
 
 "Updates" = "更新";
 "Receive Beta Updates" = "接收测试版更新";
 
-"For All Apps and Websites" = "适用于所有应用和网站";
+"For All Apps and Websites" = "用于所有应用和网站";
 "When Switching Back to the App or Website" = "切换回应用或网站时";
 
-"Tooltip" = "提示";
-"Indicator Triggers" = "提示触发规则";
-"isActiveWhenFocusedElementChanges" = "切换输入焦点时显示";
+"Tooltip" = "指示器";
+"Indicator Triggers" = "指示器触发规则";
+"isActiveWhenFocusedElementChanges" = "输入框焦点变化时显示";
 "isActiveWhenSwitchApp" = "切换应用时显示";
 "isActiveWhenSwitchInputSource" = "切换输入法时显示";
 "isActiveWhenLongpressLeftMouse" = "长按鼠标左键时显示";
@@ -48,12 +48,12 @@
 
 "Advanced" = "高级设置";
 "Troubleshooting" = "故障排除";
-"Enhanced Mode Required" = "需要增强模式";
+"Enhanced Mode Required" = "需要启用增强模式";
 "Enabled CJKV Fix" = "修复输入法切换问题";
-"Enabled CJKV Fix Description" = "启用此功能可以解决输入法图标已更改，但在打字时系统仍使用前一个输入法的问题。";
+"Enabled CJKV Fix Description" = "启用此功能可以解决输入法图标已更改，但输入时系统仍在使用前一个输入法的问题。";
 "Enabled CJKV Fix Shortcut Img" = "CJKVFixEnableShortcut-CN";
-"Enabled CJKV Fix Failed Desc" = "为了启动该功能，需要启用系统的「选择上一个输入法」快捷键。";
-"Open Keyboard Settings" = "打开「键盘」设置";
+"Enabled CJKV Fix Failed Desc" = "为了启用此功能，你需要开启系统的“选择上一个输入法”快捷键。";
+"Open Keyboard Settings" = "打开键盘设置";
 
 "Customize Keyboard" = "自定义样式";
 "Keyboard Indicator Style" = "默认样式";
