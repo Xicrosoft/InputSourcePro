@@ -60,7 +60,6 @@
 "Always-On Indicator Style" = "常駐樣式";
 "Reset" = "重設";
 
-"Enhanced" = "實驗性功能";
 "tryToDisplayIndicatorNearCursor" = "優先在輸入游標附近顯示";
 "isEnableAlwaysOnIndicator" = "在輸入游標處顯示常駐提示";
 "alwaysOnIndicatorTips" = "開啟此功能需先啟用「優先在輸入游標附近顯示」";
