@@ -138,7 +138,7 @@
 
 "DOMAIN-SUFFIX Explanation" = "ドメイン接尾辞でURLをマッチさせます。例えば、「google.com」は、「www.google.com」、「mail.google.com」、「google.com」にマッチしますが、「xxx-google.com」には**マッチしません**。";
 "DOMAIN Explanation" = "正確なドメインでURLをマッチさせます。例えば、「google.com」は、「google.com」にマッチしますが、「www.google.com」や「mail.google.com」には**マッチしません**。";
-"URL-REGEX Explanation" = "[正規表現](https://inputsource.pro/help/regex)を使用してURLをマッチさせます。特殊文字（'\\'、'.'など）をエスケープするのを忘れないでください。";
+"URL-REGEX Explanation" = "[正規表現](https://inputsource.pro/help/regex)を使用してURLをマッチさせます。特殊文字（'\'、'.'など）をエスケープするのを忘れないでください。";
 
 "Default Keyboard for Address Bar" = "アドレスバー用のデフォルトキーボード";
 
