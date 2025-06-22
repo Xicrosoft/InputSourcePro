@@ -5,7 +5,7 @@
 "Buy me a bubble tea" = "请我喝杯奶茶";
 "Join Our Community" = "加入社区";
 "Quit" = "退出";
-"Default Keyboard for %@" = "为「%@」设置默认输入法";
+"Default Keyboard for %@" = "为 %@ 设置默认输入法";
 "Current App" = "当前应用";
 "Default Keyboard Tooltip" = "保持为空（默认）时，Input Source Pro 将不会切换输入法";
 "Default" = "默认";
@@ -28,7 +28,7 @@
 "Display Icon in Menu Bar" = "在菜单栏中显示图标";
 "Enhanced Mode" = "增强模式";
 "Enhanced Mode Description" = "启用增强模式可以提供更准确的提示位置，并更好地支持类似“聚焦”的功能";
-"Enhanced Mode Permission Description" = "Input Source Pro 需要辅助功能权限以启用增强模式。";
+"Enhanced Mode Permission Description" = "Input Source Pro 需要辅助功能权限以启用 **增强模式**。";
 "Enhanced Mode Required Tips" = "该功能需要启用“增强模式”。";
 "Open Accessibility Preferences" = "打开辅助功能设置";
 
@@ -52,7 +52,7 @@
 "Enabled CJKV Fix" = "修复输入法切换问题";
 "Enabled CJKV Fix Description" = "启用此功能可以解决输入法图标已更改，但输入时系统仍在使用前一个输入法的问题。";
 "Enabled CJKV Fix Shortcut Img" = "CJKVFixEnableShortcut-CN";
-"Enabled CJKV Fix Failed Desc" = "为了启用此功能，你需要开启系统的“选择上一个输入法”快捷键。";
+"Enabled CJKV Fix Failed Desc" = "为了启用此功能，你需要在系统设置中开启“选择上一个输入法”快捷键。";
 "Open Keyboard Settings" = "打开键盘设置";
 
 "Customize Keyboard" = "自定义样式";
@@ -62,7 +62,7 @@
 
 "tryToDisplayIndicatorNearCursor" = "优先在输入光标附近显示";
 "isEnableAlwaysOnIndicator" = "在输入光标处显示常驻提示";
-"alwaysOnIndicatorTips" = "开启此功能需先启用「优先在输入光标附近显示」";
+"alwaysOnIndicatorTips" = "开启此功能需先启用“优先在输入光标附近显示”。";
 "Customize Styles" = "自定义样式";
 
 "Show" = "显示";
@@ -115,8 +115,8 @@
 "Restore Previously Used Keyboard" = "自动恢复应用上次使用的输入法";
 "Use Default Keyboard Instead" = "总是切换至默认输入法";
 "Restore Previously Used One" = "恢复上次使用的输入法";
-"Indicator" = "提示";
-"Hide Indicator" = "隐藏输入法提示";
+"Indicator" = "指示器";
+"Hide Indicator" = "隐藏输入法指示器";
 "Add Running Apps" = "添加运行中的应用";
 "(unknown)" = "（未知）";
 
