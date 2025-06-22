@@ -1,0 +1,3 @@
+files:
+  - source: /Input Source Pro/Resources/en.lproj/Localizable.strings
+    translation: /Input Source Pro/Resources/%locale%.lproj/Localizable.strings
