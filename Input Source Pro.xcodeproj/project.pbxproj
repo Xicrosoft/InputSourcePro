@@ -73,7 +73,6 @@
 		4A4167322813D9FA00CCC28C /* NSRegularExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4167312813D9FA00CCC28C /* NSRegularExpression.swift */; };
 		4A4167342814086E00CCC28C /* IndicatorPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4167332814086E00CCC28C /* IndicatorPosition.swift */; };
 		4A4E035C2DB97534008E5C2F /* PromotionBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4E035B2DB97534008E5C2F /* PromotionBadge.swift */; };
-		4A5BABE72830A720009F42D7 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A5BABE92830A720009F42D7 /* Localizable.strings */; };
 		4A5EAA6A280BF68B00A9E332 /* KeyboardsSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5EAA69280BF68B00A9E332 /* KeyboardsSettingsView.swift */; };
 		4A5EAA6C280BF6F700A9E332 /* AppearanceSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5EAA6B280BF6F700A9E332 /* AppearanceSettingsView.swift */; };
 		4A5EAA6E280C0DE800A9E332 /* PopUpButtonPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5EAA6D280C0DE800A9E332 /* PopUpButtonPicker.swift */; };
@@ -112,6 +111,7 @@
 		4ADDC324281AC39A0075528A /* IndicatorViewConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ADDC323281AC39A0075528A /* IndicatorViewConfig.swift */; };
 		4ADDC326281AC4DD0075528A /* NSApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ADDC325281AC4DD0075528A /* NSApplication.swift */; };
 		4AEEE08428126A4900C883F8 /* BrowserURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEEE08328126A4900C883F8 /* BrowserURL.swift */; };
+		4F11771C2E095C4700FA64DE /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 4F11771B2E095C4700FA64DE /* Localizable.xcstrings */; };
 		D50821F229FE29C40078ADEC /* EnhancedModeToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50821F129FE29C40078ADEC /* EnhancedModeToggle.swift */; };
 		D508B6A32A140289002E272E /* FileManager+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = D508B6A22A140289002E272E /* FileManager+Ext.swift */; };
 		D5115A142A32F70300D94E51 /* PositionSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5115A132A32F70300D94E51 /* PositionSettingsView.swift */; };
@@ -237,8 +237,6 @@
 		4A4167312813D9FA00CCC28C /* NSRegularExpression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSRegularExpression.swift; sourceTree = "<group>"; };
 		4A4167332814086E00CCC28C /* IndicatorPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorPosition.swift; sourceTree = "<group>"; };
 		4A4E035B2DB97534008E5C2F /* PromotionBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromotionBadge.swift; sourceTree = "<group>"; };
-		4A5BABE82830A720009F42D7 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		4A5BABEA2830A726009F42D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4A5EAA69280BF68B00A9E332 /* KeyboardsSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardsSettingsView.swift; sourceTree = "<group>"; };
 		4A5EAA6B280BF6F700A9E332 /* AppearanceSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceSettingsView.swift; sourceTree = "<group>"; };
 		4A5EAA6D280C0DE800A9E332 /* PopUpButtonPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpButtonPicker.swift; sourceTree = "<group>"; };
@@ -274,6 +272,7 @@
 		4ADDC323281AC39A0075528A /* IndicatorViewConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorViewConfig.swift; sourceTree = "<group>"; };
 		4ADDC325281AC4DD0075528A /* NSApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSApplication.swift; sourceTree = "<group>"; };
 		4AEEE08328126A4900C883F8 /* BrowserURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowserURL.swift; sourceTree = "<group>"; };
+		4F11771B2E095C4700FA64DE /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		D50821F129FE29C40078ADEC /* EnhancedModeToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnhancedModeToggle.swift; sourceTree = "<group>"; };
 		D508B6A22A140289002E272E /* FileManager+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager+Ext.swift"; sourceTree = "<group>"; };
 		D5115A132A32F70300D94E51 /* PositionSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionSettingsView.swift; sourceTree = "<group>"; };
@@ -281,7 +280,6 @@
 		D5115A172A33A61500D94E51 /* QuestionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionButton.swift; sourceTree = "<group>"; };
 		D5115A1B2A33D0F700D94E51 /* IndicatorInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorInfo.swift; sourceTree = "<group>"; };
 		D5115A1D2A33D57A00D94E51 /* ItemSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemSection.swift; sourceTree = "<group>"; };
-		D51488D52A495F39001463B6 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		D51625FD2A2077AE00BB8735 /* QueryWebAreaService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueryWebAreaService.swift; sourceTree = "<group>"; };
 		D51625FF2A2077FC00BB8735 /* Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Element.swift; sourceTree = "<group>"; };
 		D525609429B3F255009EB7BA /* IndicatorWindowController+Indicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IndicatorWindowController+Indicator.swift"; sourceTree = "<group>"; };
@@ -312,8 +310,6 @@
 		D5D1FF452A84BF390087217B /* Data+SHA256.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+SHA256.swift"; sourceTree = "<group>"; };
 		D5DEFF6F28A3A47D005B2B15 /* PreferencesVM+BrowserAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PreferencesVM+BrowserAddress.swift"; sourceTree = "<group>"; };
 		D5E8C92F2A29B268008BDABE /* FeedbackVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackVM.swift; sourceTree = "<group>"; };
-		D5EAAC512A47BF7E00A41BC1 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
-		D5F6E8D429EC812500DE042B /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		D5F73B012A2C1DCD00BBC10A /* InputSourceVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputSourceVM.swift; sourceTree = "<group>"; };
 		D5FC8F542A4134B5002AE1F2 /* IndicatorSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorSize.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -554,7 +550,7 @@
 				4A20AD682892993F00620D14 /* Videos */,
 				4A2A1732280BA6A800E13249 /* Assets.xcassets */,
 				4A2AACCA280BAD3700CA8124 /* Info.plist */,
-				4A5BABE92830A720009F42D7 /* Localizable.strings */,
+				4F11771B2E095C4700FA64DE /* Localizable.xcstrings */,
 				4A2A1737280BA6A800E13249 /* Signing.entitlements */,
 			);
 			path = Resources;
@@ -755,8 +751,8 @@
 			files = (
 				D58168CF2894408200E84058 /* Always-On-Indicator-Demo-Light.mp4 in Resources */,
 				D58168CE2894408200E84058 /* Always-On-Indicator-Demo-Dark.mp4 in Resources */,
+				4F11771C2E095C4700FA64DE /* Localizable.xcstrings in Resources */,
 				4A2A1736280BA6A800E13249 /* Preview Assets.xcassets in Resources */,
-				4A5BABE72830A720009F42D7 /* Localizable.strings in Resources */,
 				D58168CA28943A5400E84058 /* Indicator-Near-Cursor-Demo-Dark.mp4 in Resources */,
 				D58168CB28943A5400E84058 /* Indicator-Near-Cursor-Demo-Light.mp4 in Resources */,
 				4A2A1733280BA6A800E13249 /* Assets.xcassets in Resources */,
@@ -927,21 +923,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXVariantGroup section */
-		4A5BABE92830A720009F42D7 /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				4A5BABE82830A720009F42D7 /* zh-Hans */,
-				4A5BABEA2830A726009F42D7 /* en */,
-				D5F6E8D429EC812500DE042B /* ja */,
-				D5EAAC512A47BF7E00A41BC1 /* ko */,
-				D51488D52A495F39001463B6 /* zh-Hant */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
-
 /* Begin XCBuildConfiguration section */
 		4A2A1738280BA6A800E13249 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -997,12 +978,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -1055,11 +1038,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 			};
 			name = Release;
